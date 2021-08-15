@@ -1,27 +1,27 @@
-Sorry ... currently under renovation! But you can read the intro below and feel free to  check out the code I'm currently curating in my repos. 
-
-
-
-
-Welcome to my GitHub! Learn about me at https://www.linkedin.com/in/wmellis1/
-
-
-
-
-My GitHub primarily showcases code I've written in numerous projects from Machine/Deep Learning courses I have completed - and also any interesting side projects I’ve done (no work-related product developed on behalf of my employers is included here).  
-
-My Content
-Homer Simpson, Precision (PPV), Recall and the Confusion Matrix? Yes! I developed a fun interactive Tableau dashboard which allows users to get a grasp of these crucial (and sometimes slippery, even for senior leaders) statistical concepts in classification models.
-Udacity ‘Deep Learning’ projects (2020; a 4 month intensive course I completed as part of a cohort sponsored by my employer. Modules/projects (only final projects here):
-'Neural Networks' - 'Predicting Bike Sharing Data'
-'Convolutional Networks' - 'Dog Breed Classifier'
-'Recurrent Networks' - 'Generate TV Scripts'
-'Generative Adversarial Networks' - 'Generate Faces'
-'Deep Reinforcement Learning' - 'Teach a Quadcopter How to Fly'
-Udacity ‘Natural Language Processing’ projects (2020; a 3 month intensive course I completed as part of a cohort sponsored by my employer.
-
-'Introduction to NLP' - 'Part of Speech Tagging'
-'Computing with Natural Language' - 'Machine Translation'
-'Communicating with Natural Language' - 'DNN Speech Recognizer'
-Coursera/Univ. of Washingon 'Machine Learning Specialization' (2017; 4 courses - 'Foundations', 'Regression', and 'Classification', 'Clustering'.
-Miscellaneous (older) Coursera ML courses
+<h3><strong><span style="color: #339966;">Sorry ... currently under renovation! But you can read the intro below and feel free to&nbsp; check out the code I'm currently curating in my repos.&nbsp;</span></strong></h3>
+<p>&nbsp;</p>
+<p>Welcome to my GitHub! Learn about me at&nbsp;<a href="https://www.linkedin.com/in/wmellis1/">https://www.linkedin.com/in/wmellis1/</a></p>
+<p>&nbsp;</p>
+<p>My GitHub primarily showcases code I've written in numerous projects from Machine/Deep Learning courses I have completed - and also any interesting side projects I&rsquo;ve done (no work-related product developed on behalf of my employers is included here). &nbsp;</p>
+<h3 style="padding-left: 40px;"><strong>My Content</strong></h3>
+<ul>
+<li><strong>Homer Simpson, Precision (PPV), Recall and the Confusion Matrix? </strong>Yes! I developed a fun interactive Tableau dashboard which allows users to get a grasp of these crucial (and sometimes slippery, even for senior leaders) statistical concepts in classification models.</li>
+<li><strong>Udacity &lsquo;Deep Learning&rsquo; projects</strong> (2020; a 4 month intensive course I completed as part of a cohort sponsored by my employer. Modules/projects (only final projects here):
+<ul>
+<li>'Neural Networks' - 'Predicting Bike Sharing Data'</li>
+<li>'Convolutional Networks' - 'Dog Breed Classifier'</li>
+<li>'Recurrent Networks' - 'Generate TV Scripts'</li>
+<li>'Generative Adversarial Networks' - 'Generate Faces'</li>
+<li>'Deep Reinforcement Learning' - 'Teach a Quadcopter How to Fly'</li>
+</ul>
+</li>
+<li><strong>Udacity &lsquo;Natural Language Processing&rsquo; projects</strong> (2020; a 3 month intensive course I completed as part of a cohort sponsored by my employer.
+<ul>
+<li>'Introduction to NLP' - 'Part of Speech Tagging'</li>
+<li>'Computing with Natural Language' - 'Machine Translation'</li>
+<li>'Communicating with Natural Language' - 'DNN Speech Recognizer'</li>
+</ul>
+</li>
+<li><strong>Coursera/Univ. of Washingon 'Machine Learning Specialization'</strong> (2017; 4 courses - 'Foundations', 'Regression', and 'Classification', 'Clustering'.</li>
+<li><strong>Miscellaneous (older) Coursera ML courses</strong></li>
+</ul>
