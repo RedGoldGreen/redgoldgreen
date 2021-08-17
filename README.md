@@ -11,7 +11,7 @@
 <li>'Neural Networks' - 'Predicting Bike Sharing Data'</li>
 <li>'Convolutional Networks' - 'Dog Breed Classifier'&nbsp; <a title="William Ellis - Dog Breed Classifier" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/dog_app.html">Dog Breed Classifier</a></li>
 <li>'Recurrent Networks' - 'Generate TV Scripts'&nbsp; &nbsp; <a title="William Ellis - Generate TV Scripts" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/dlnd_tv_script_generation.html">Generate TV Scripts</a></li>
-<li>'Generative Adversarial Networks' - 'Generate Faces'</li>
+<li>'Generative Adversarial Networks' - 'Generate Faces'&nbsp; <a title="William Ellis - Generate Faces" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/dlnd_face_generation.html">Generate Faces</a></li>
 <li>'Deep Reinforcement Learning' - 'Teach a Quadcopter How to Fly'</li>
 </ul>
 <li><strong>Udacity &lsquo;Natural Language Processing&rsquo; projects</strong> (2020; a 3 month intensive course I completed as part of a cohort sponsored by my employer.</li>
@@ -24,5 +24,5 @@
 <li><strong>Miscellaneous (older) Coursera ML courses</strong></li>
 </ul>
 <ul>
-<li>&nbsp;</li>
+<li>To Be Added ...</li>
 </ul>
