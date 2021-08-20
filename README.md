@@ -5,7 +5,7 @@
 <p>My GitHub primarily showcases code I've written in numerous projects from Machine/Deep Learning courses I have completed - and also any interesting side projects I&rsquo;ve done (no work-related product developed on behalf of my employers is included here). &nbsp;</p>
 <h3><strong>My Content</strong></h3>
 <ul>
-<li><strong>Homer Simpson, Precision (PPV), Recall and the Confusion Matrix? </strong>Yes! I developed a fun interactive Tableau dashboard which allows users to get a <em>practical</em> grasp of these crucial (and sometimes slippery, even for senior leaders) statistical concepts in classification models.</li>&nbsp; &nbsp; <a title="William Ellis - Classification Model Statistics Demo" href="https://public.tableau.com/app/profile/william.ellis3377/viz/ClassificationMetricsDemo/Dashboard?publish=yes">Classification Model Statistics Demo</a></li>
+<li><strong>Homer Simpson, Precision (PPV), Recall and the Confusion Matrix? </strong>Yes! I developed a fun interactive Tableau dashboard which allows users to get a <em>practical</em> grasp of these crucial (and sometimes slippery, even for senior leaders) statistical concepts in classification models.</li>&nbsp; &nbsp; <a title="William Ellis - Classification Model Statistics Demo" href="https://public.tableau.com/app/profile/william.ellis3377/viz/MachineLearningClassificationModelingMetricsDemo/Dashboard">(Machine Learning) Classification Modeling Metrics Demo</a></li>
 <li><strong>Udacity &lsquo;Deep Learning&rsquo; projects</strong> (2020; a 4 month intensive course I completed as part of a cohort sponsored by my employer. Modules/projects (links here are to .html of Jupyter notebooks for each modules' final project)</li>
 <ul>
 <li>'Neural Networks' - 'Predicting Bike Sharing Data'</li>
