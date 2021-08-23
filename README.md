@@ -1,6 +1,6 @@
-<h3><span style="color: #008000;"><strong>Repo currently under renovation! But please read the intro below and feel free to check out the links below and/or code I'm currently curating in my repos.&nbsp;</strong></span></h3>
+<h3><span style="color: #008000;"><strong>Welcome to my GitHub! Please read the intro below and feel free to check out the links below and/or code I'm curating in my repos.&nbsp;</strong></span></h3>
 <p>&nbsp;</p>
-<p>Welcome to my GitHub! Learn about me at&nbsp;<a href="https://www.linkedin.com/in/wmellis1/">https://www.linkedin.com/in/wmellis1/</a></p>
+<p>Learn about me at&nbsp;<a href="https://www.linkedin.com/in/wmellis1/">https://www.linkedin.com/in/wmellis1/</a></p>
 <p>&nbsp;</p>
 <p>My GitHub primarily showcases code I've written in numerous projects from Machine/Deep Learning courses I have completed - and also any interesting side projects I&rsquo;ve done (no work-related product developed on behalf of my employers is included here). &nbsp;</p>
 <h3><strong>My Content</strong></h3>
