@@ -16,7 +16,7 @@
 </ul>
 <li><strong>Udacity &lsquo;Natural Language Processing&rsquo; projects</strong> (2020; a 3 month intensive course I completed as part of a cohort sponsored by my employer.</li>
 <ul>
-<li>'Introduction to NLP' - 'Part of Speech Tagging'</li>
+<li>'Hidden Markov Models' - 'Part of Speech Tagging'&nbsp; <a title="William Ellis - Hidden Markov Model" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/Hidden Markov Model Tagger.html">Hidden Markov Model - Part of Speech Tagging</a></li>
 <li>'Computing with Natural Language' - 'Machine Translation'</li>
 <li>'Communicating with Natural Language' - 'DNN Speech Recognizer'</li>
 </ul>
