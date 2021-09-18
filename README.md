@@ -1,4 +1,4 @@
-<h3><em><span style="color: #008000;"><strong>Welcome to my GitHub! Please read the intro below and feel free to check out the links below and/or code </strong></span><span style="color: #008000;"><strong>in my repos </strong></span><span style="color: #008000;"><strong>(<span style="text-decoration: underline;">currently curating the latter</span>).&nbsp;</strong></span></em></h3>
+<h3><span style="color: #666699;"><em><strong>Welcome to my GitHub! Please read the intro below and feel free to check out the links below and/or code </strong><strong>in my repos </strong><strong>(<span style="text-decoration: underline;">currently curating the latter</span>).&nbsp;</strong></em></span></h3>
 <p>&nbsp;</p>
 <p>Learn about me at&nbsp;<a href="https://www.linkedin.com/in/wmellis1/">https://www.linkedin.com/in/wmellis1/</a></p>
 <p>My first introduction to ML concepts was in the wonderful statistics elective 'Applications of Multivariate Analysis Methods in Business Research' at New York University, Stern School of Business and I continue to be as excited about the subject as I was then.</p>
