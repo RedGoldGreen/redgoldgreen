@@ -12,7 +12,7 @@
 <li>Convolutional Neural Networks - <a title="William Ellis - Dog Breed Classifier" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/dog_app.html">Dog Breed Classifier</a></li>
 <li>Recurrent Neural Networks - <a title="William Ellis - Generate TV Scripts" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/dlnd_tv_script_generation.html">Generate TV Scripts</a></li>
 <li>Generative Adversarial Networks - <a title="William Ellis - Generate Faces" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/dlnd_face_generation.html">Generate Faces</a></li>
-<li>Deep Reinforcement Learning - <a title="William Ellis - Teach a Quadcopter How to Fly" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/Quadcopter_Project.html">Teach a Quadcopter How to Fly</a></li>
+<li>Deep Reinforcement Learning - <a title="William Ellis - Teach a Quadcopter How to Fly (incl an Actor-Critic policy agent)" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/Deep-Learning/blob/main/Quadcopter_Project.html">Teach a Quadcopter How to Fly</a></li>
 </ul>
 <li><strong>Udacity &lsquo;Natural Language Processing&rsquo; projects</strong> (2020; a 3 month intensive course I completed as part of a cohort sponsored by my employer.</li>
 <ul>
