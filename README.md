@@ -22,7 +22,5 @@
 </ul>
 <li><strong>Coursera/Univ. of Washingon 'Machine Learning Specialization'</strong> (2017; 4 courses - 'Foundations', 'Regression', 'Classification' and 'Clustering'.</li>
 <li><strong>Miscellaneous (older) Coursera ML courses</strong></li>
-</ul>
-<ul>
 <li>To Be Added ...</li>
 </ul>
