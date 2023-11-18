@@ -20,7 +20,6 @@
 <li>Computing with Natural Language - <a title="Bidirectional RNN with word embeddings" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/NLP/blob/main/machine_translation.html">Machine Translation (Bidirectional RNN with word embeddings)</a></li>
 <li>'Communicating with Natural Language' - <a title="Speech Recognition (VUI, Bidirectional Time Distributed Dense RNN)" href="https://htmlpreview.github.io/?https://github.com/RedGoldGreen/NLP/blob/main/vui_notebook.html">Speech Recognition (VUI, Bidirectional Time Distributed Dense RNN)</a></li>
 </ul>
-<li><strong>Coursera/Univ. of Washingon 'Machine Learning Specialization'</strong> (2017; 4 courses - 'Foundations', 'Regression', 'Classification' and 'Clustering'.  ... To Be Added ...</li>
-<li><strong>Miscellaneous (older) Coursera ML courses</strong></li>
-... To Be Added ...</li>
+<li><strong>Coursera/Univ. of Washingon 'Machine Learning Specialization'</strong> (2017; 4 courses - 'Foundations', 'Regression', 'Classification' and 'Clustering')  ... To Be Added ...</li>
+<li><strong>Miscellaneous (older) Coursera ML (R Programming) Courses</strong> ... To Be Added ...</li>
 
